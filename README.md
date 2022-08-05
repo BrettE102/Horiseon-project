@@ -10,4 +10,8 @@ Double click the index.html file inside this project and it will open in the bro
 ## Configuration
 No configuration required.
 
+## Public URL
+
+[Deployed Website](https://brette102.github.io/Horiseon-project/)
+
 ![Alt text](./assets/images/Capture.PNG?raw=true "Website")
